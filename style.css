@@ -176,4 +176,7 @@ body {
   .nav-toggle {
     display: flex;
   }
+  #parent{
+    width: 100%;
+  }
 }
